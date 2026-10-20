@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Ineffelle Elei 👋</h1>
 
-<!--
-**senileri/senileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Programmer • Game Developer • Animator • Video Editor
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm building my skills across programming, game development,
+animation, and video editing.
+
+I enjoy turning ideas into creative digital experiences
+and bringing projects to life through technology.
+
+### Areas of Interest
+
+- 💻 Programming
+- 🎮 Game Development
+- 🎨 Animation
+- 🎬 Video Editing
+- 🤖 Artificial Intelligence
+
+### Connect With Me
+
+- 🤗 Hugging Face: https://huggingface.co/senileri
+
+---
+
+<p align="center">
+  Building today. Moving forward every day.
+</p>
