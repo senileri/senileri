@@ -25,6 +25,7 @@ and bringing projects to life through technology.
 ### Connect With Me
 
 - 🤗 Hugging Face: https://huggingface.co/senileri
+- 💬 Discord: https://discord.gg/eQwVvwaqep
 
 ---
 
